@@ -1,15 +1,15 @@
 {
 
-	"APP_KEY": "fS55821",
+	"APP_KEY": "f35421",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "55bceb6c4657952",
-	"APPLOVIN_INTERSTITIAL_ID": "e5b364c935bbe5",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"e5b346cc935bbe5",
+	"APPLOVIN_BANNER_ID": "55bc4567952",
+	"APPLOVIN_INTERSTITIAL_ID": "e5b37455bbe5",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"e5b3747935bbe5",
 	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
@@ -19,7 +19,7 @@
 
 	"SwitchAds": 2,
 
-	"MoreApps": "6454933",
+	"MoreApps": "6454733",
 
 	"popAppLink": "https://smrturl.co/o/132730/53177516",
 	"popAppName": "Get Free Gift Card",
