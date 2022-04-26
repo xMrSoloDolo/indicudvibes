@@ -7,9 +7,9 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "55bcev535v52",
-	"APPLOVIN_INTERSTITIAL_ID": "e5b3355v5bbe5",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"e5b757bbbe5",
+	"APPLOVIN_BANNER_ID": "c1b57a7c56f63137",
+	"APPLOVIN_INTERSTITIAL_ID": "24593417865456a9",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"24593417865456a9",
 	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
@@ -54,7 +54,7 @@
 		{
 			"title": "ShoeDazzle",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/dzxz.png",
-			"url": "https://"
+			"url": "http://alturl.com/e8i24"
 		}
 
 	]
