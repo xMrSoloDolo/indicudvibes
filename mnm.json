@@ -7,9 +7,9 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "55bc5v7h952",
-	"APPLOVIN_INTERSTITIAL_ID": "e5h77j5bbe5",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"e56j86h935bbe5",
+	"APPLOVIN_BANNER_ID": "55bc5v7h9521950d389fae4a060",
+	"APPLOVIN_INTERSTITIAL_ID": "410d055b4b767a11",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"410d055b4b767a11",
 	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
@@ -45,7 +45,7 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":false,
+    "Visibility_image_cpa":true,
     "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
     "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
 
@@ -54,7 +54,7 @@
 		{
 			"title": "MandM Direct",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/logo.png",
-			"url": "https://"
+			"url": "https://www.mandmdirect.com/"
 		}
 
 	]
