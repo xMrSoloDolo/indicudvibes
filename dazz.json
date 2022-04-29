@@ -23,7 +23,7 @@
 
 	"popAppLink": "https://smrturl.co/o/132730/53177516",
 	"popAppName": "Get Free Gift Card",
-	"popAppImage": "https://i.ibb.co/LvGy2Gv/bglo.jpg",
+	"popAppImage": "https://i.ibb.co/9b3PVt0/shoegift.jpg",
 	"popAppPackage": "",
 	"popAppIsActive": false,
 	"Interval_Time":40000, 
@@ -45,7 +45,7 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":false,
+    "Visibility_image_cpa":true,
     "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
     "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
 
