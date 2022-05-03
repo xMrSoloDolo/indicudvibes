@@ -7,9 +7,9 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "55bc4567952",
-	"APPLOVIN_INTERSTITIAL_ID": "e5b37455bbe5",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"e5b3747935bbe5",
+	"APPLOVIN_BANNER_ID": "972a5c30887fdcc5",
+	"APPLOVIN_INTERSTITIAL_ID": "27ed981f446ff399",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"27ed981f446ff399",
 	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
@@ -29,7 +29,7 @@
 	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": false,
+	"isPage2Activate": true,
 	"isPage3Activate": false,
 	"isPage4Activate": false,
     	//content Page 4
@@ -54,7 +54,7 @@
 		{
 			"title": "Primark",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/primk.png",
-			"url": "https://"
+			"url": "http://alturl.com/kxauw"
 		}
 
 	]
