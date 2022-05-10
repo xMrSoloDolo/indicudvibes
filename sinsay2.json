@@ -7,9 +7,9 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "55bc4567952",
-	"APPLOVIN_INTERSTITIAL_ID": "e5b37455bbe5",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"e5b3747935bbe5",
+	"APPLOVIN_BANNER_ID": "402e559ed144d2c8",
+	"APPLOVIN_INTERSTITIAL_ID": "712eeb7ca6e16cf2",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"712eeb7ca6e16cf2",
 	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
@@ -45,16 +45,16 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":false,
+    "Visibility_image_cpa":true,
     "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
     "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
 
 	"URLs": [
 
 		{
-			"title": "SinsayShop",
+			"title": "Sinsay Shop",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/sisni.png",
-			"url": "https://"
+			"url": "http://alturl.com/zfqmp"
 		}
 
 	]
