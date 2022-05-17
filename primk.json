@@ -17,7 +17,7 @@
 	"UNITY_GAME_ID": "3916749",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 4,
+	"SwitchAds": 2,
 
 	"MoreApps": "6454733",
 
@@ -30,7 +30,7 @@
 
 	"isPage1Activate": true,
 	"isPage2Activate": true,
-	"isPage3Activate": false,
+	"isPage3Activate": true,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"have you ever bought from big lots online Before?",
