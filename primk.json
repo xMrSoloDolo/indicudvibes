@@ -10,7 +10,7 @@
 	"APPLOVIN_BANNER_ID": "972a5c30887fdcc5",
 	"APPLOVIN_INTERSTITIAL_ID": "27ed981f446ff399",
 	"APPLOVIN_INTERSTITIAL_ONBACK":"27ed981f446ff399",
-	"ENABLE_ONBACK_ADS":true,
+	"ENABLE_ONBACK_ADS":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -25,12 +25,12 @@
 	"popAppName": "Get Free Gift Card",
 	"popAppImage": "https://i.ibb.co/Dwhq4ws/prim.jpg",
 	"popAppPackage": "",
-	"popAppIsActive": true,
+	"popAppIsActive": false,
 	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": true,
-	"isPage3Activate": true,
+	"isPage2Activate": false,
+	"isPage3Activate": false,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"have you ever bought from big lots online Before?",
@@ -45,7 +45,7 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":true,
+    "Visibility_image_cpa":false,
     "Url_Image_Cpa":"https://smrturl.co/o/132730/53174327",
     "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
 
@@ -54,7 +54,7 @@
 		{
 			"title": "Primark",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/primk.png",
-			"url": "http://alturl.com/kxauw"
+			"url": "http://"
 		}
 
 	]
