@@ -29,7 +29,7 @@
 	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": false,
+	"isPage2Activate": true,
 	"isPage3Activate": false,
 	"isPage4Activate": false,
     	//content Page 4
